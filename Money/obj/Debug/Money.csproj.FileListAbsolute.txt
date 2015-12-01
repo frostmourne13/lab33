@@ -1,0 +1,5 @@
+D:\Repo3\Money\bin\Debug\Money.dll
+D:\Repo3\Money\bin\Debug\Money.pdb
+D:\Repo3\Money\obj\Debug\Money.csprojResolveAssemblyReference.cache
+D:\Repo3\Money\obj\Debug\Money.dll
+D:\Repo3\Money\obj\Debug\Money.pdb
