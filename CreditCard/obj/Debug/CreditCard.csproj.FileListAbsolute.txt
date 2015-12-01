@@ -1,0 +1,5 @@
+D:\visualProject\lab3\CreditCard\bin\Debug\CreditCard.dll
+D:\visualProject\lab3\CreditCard\bin\Debug\CreditCard.pdb
+D:\visualProject\lab3\CreditCard\obj\Debug\CreditCard.csprojResolveAssemblyReference.cache
+D:\visualProject\lab3\CreditCard\obj\Debug\CreditCard.dll
+D:\visualProject\lab3\CreditCard\obj\Debug\CreditCard.pdb
