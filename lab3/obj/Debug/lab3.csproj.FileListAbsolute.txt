@@ -1,0 +1,8 @@
+D:\visualProject\lab3\lab3\bin\Debug\lab3.exe.config
+D:\visualProject\lab3\lab3\bin\Debug\lab3.exe
+D:\visualProject\lab3\lab3\bin\Debug\lab3.pdb
+D:\visualProject\lab3\lab3\bin\Debug\CreditCard.dll
+D:\visualProject\lab3\lab3\bin\Debug\CreditCard.pdb
+D:\visualProject\lab3\lab3\obj\Debug\lab3.csprojResolveAssemblyReference.cache
+D:\visualProject\lab3\lab3\obj\Debug\lab3.exe
+D:\visualProject\lab3\lab3\obj\Debug\lab3.pdb
